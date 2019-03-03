@@ -31,19 +31,19 @@ HTML5, CSS3, JavaScript ES2015+, git, Linux cli, SEO, BEM, Drupal CMF (6, 7, 8 v
 
 ## Code samples
 
-https://github.com/geek10010/Money-Exchange/blob/master/src/index.js
+(https://github.com/geek10010/Money-Exchange/blob/master/src/index.js)
 
-https://github.com/geek10010/love-triangle/blob/master/src/index.js
+(https://github.com/geek10010/love-triangle/blob/master/src/index.js)
 
-https://github.com/geek10010/additional_5/blob/master/src/index.js
+(https://github.com/geek10010/additional_5/blob/master/src/index.js)
 
-https://github.com/geek10010/you-are-awesome/blob/master/src/index.js
+(https://github.com/geek10010/you-are-awesome/blob/master/src/index.js)
 
-https://github.com/geek10010/smart-calculator/blob/master/src/index.js
+(https://github.com/geek10010/smart-calculator/blob/master/src/index.js)
 
-https://github.com/geek10010/additional_7/blob/master/src/index.js
+(https://github.com/geek10010/additional_7/blob/master/src/index.js)
 
-https://www.codewars.com/users/geek10010/completed
+(https://www.codewars.com/users/geek10010/completed)
 
 
 ## Work experience
@@ -63,13 +63,13 @@ Development and support of websites (from business cards, e-shops, to larger one
 
 ### Some websites developed by me as freelancer:
 
-https://www.donskie.com  
-http://www.tekadum.by  
-https://www.razvitie.by  
+(https://www.donskie.com)  
+(http://www.tekadum.by)  
+(https://www.razvitie.by)  
 
 ### Website developed in team (me: structure and markup partially):
 
-http://bvpservice.by
+(http://bvpservice.by)
 
 __2006 — 2015__ — developing from scratch, implementing (in 3 organizations) and accompanying the system for customers accounting and analytics for beauty salons and a fitness center. The system was made on MS Access (VBA, MS SQL).
 
@@ -113,4 +113,3 @@ __1988 — 1992__ — ST.Petersburg S.Kirov High Command Military School, engine
 * B1: Central House of Officers English course (2 years), Minsk
 * Duolingo (1 year)
 * English speaking club (once a week, 3 months)
-
