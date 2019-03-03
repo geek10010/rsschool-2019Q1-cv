@@ -43,6 +43,8 @@ https://github.com/geek10010/smart-calculator/blob/master/src/index.js
 
 https://github.com/geek10010/additional_7/blob/master/src/index.js
 
+https://www.codewars.com/users/geek10010/completed
+
 
 ## Work experience
 
