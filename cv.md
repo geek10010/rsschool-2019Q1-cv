@@ -32,16 +32,21 @@ HTML5, CSS3, JavaScript ES2015+, git, Linux cli, SEO, BEM, Drupal CMF (6, 7, 8 v
 ## Code samples
 
 https://github.com/geek10010/Money-Exchange/blob/master/src/index.js
+
 https://github.com/geek10010/love-triangle/blob/master/src/index.js
+
 https://github.com/geek10010/additional_5/blob/master/src/index.js
+
 https://github.com/geek10010/you-are-awesome/blob/master/src/index.js
+
 https://github.com/geek10010/smart-calculator/blob/master/src/index.js
+
 https://github.com/geek10010/additional_7/blob/master/src/index.js
 
 
 ## Work experience
 
-__2014 — until now__ — Freelancer web-developer.
+__2014 — until now__ — Freelancer web-developer.  
 Development and support of websites (from business cards, e-shops, to larger ones) on various CMS (mostly Drupal), project management, client service. Responsive web design layout.
 
 ### Full cycle of web projects:
@@ -56,9 +61,9 @@ Development and support of websites (from business cards, e-shops, to larger one
 
 ### Some websites developed by me as freelancer:
 
-https://www.donskie.com
-http://www.tekadum.by
-https://www.razvitie.by
+https://www.donskie.com  
+http://www.tekadum.by  
+https://www.razvitie.by  
 
 ### Website developed in team (me: structure and markup partially):
 
@@ -75,23 +80,23 @@ __1992 — 1995__ — served in the army as an officer
 
 ## Education
 
-2019 - IT works conference
-2019 - Drupal Meetup
-2018 - SEC
-2018 - New Adventures in Front-End, lection, HTP
-2018 - Make web-application progressive, lection
-2018 - Drupal Training Day
-2018 - Summer Summit Rolling Scopes
-2018 - BEM and React, MinskCSS Workshop
-2018 - Rolling Scopes School, stage#1, 2
-2017 - What The Hack Hackathon
-2017 - Coding Fest - Imaguru
-2017 - Space Apps Challenge
-2017 - Algorithms and Data Structures, online course
-2016 - QA courses - A1QA
-2016 - AI Hackathon - HTP
-2016 - Chat-bot Hackathon
-2016 - CS50
+2019 - IT works conference  
+2019 - Drupal Meetup  
+2018 - SEC  
+2018 - New Adventures in Front-End, lection, HTP  
+2018 - Make web-application progressive, lection   
+2018 - Drupal Training Day  
+2018 - Summer Summit Rolling Scopes  
+2018 - BEM and React, MinskCSS Workshop  
+2018 - Rolling Scopes School, stage#1, 2  
+2017 - What The Hack Hackathon  
+2017 - Coding Fest - Imaguru  
+2017 - Space Apps Challenge  
+2017 - Algorithms and Data Structures, online course  
+2016 - QA courses - A1QA  
+2016 - AI Hackathon - HTP  
+2016 - Chat-bot Hackathon  
+2016 - CS50  
 ... - now - Self-education
 
 ### Higher education
