@@ -80,30 +80,30 @@ __1992 — 1995__ — served in the army as an officer
 
 ## Education
 
-2019 - IT works conference  
-2019 - Drupal Meetup  
-2018 - SEC  
-2018 - New Adventures in Front-End, lection, HTP  
-2018 - Make web-application progressive, lection   
-2018 - Drupal Training Day  
-2018 - Summer Summit Rolling Scopes  
-2018 - BEM and React, MinskCSS Workshop  
-2018 - Rolling Scopes School, stage#1, 2  
-2017 - What The Hack Hackathon  
-2017 - Coding Fest - Imaguru  
-2017 - Space Apps Challenge  
-2017 - Algorithms and Data Structures, online course  
-2016 - QA courses - A1QA  
-2016 - AI Hackathon - HTP  
-2016 - Chat-bot Hackathon  
-2016 - CS50  
-... - now - Self-education
+__2019__ - IT works conference  
+__2019__ - Drupal Meetup  
+__2018__ - SEC  
+__2018__ - New Adventures in Front-End, lection, HTP  
+__2018__ - Make web-application progressive, lection   
+__2018__ - Drupal Training Day  
+__2018__ - Summer Summit Rolling Scopes  
+__2018__ - BEM and React, MinskCSS Workshop  
+__2018__ - Rolling Scopes School, stage#1, 2  
+__2017__ - What The Hack Hackathon  
+__2017__ - Coding Fest - Imaguru  
+__2017__ - Space Apps Challenge  
+__2017__ - Algorithms and Data Structures, online course  
+__2016__ - QA courses - A1QA  
+__2016__ - AI Hackathon - HTP  
+__2016__ - Chat-bot Hackathon  
+__2016__ - CS50  
+__... - until now__ - Self-education
 
 ### Higher education
 
-1996 — 1997 — "Belarusian Center for Retraining and Employment of Stock Military Personnel", Management, Economist Manager
+__1996 — 1997__ — "Belarusian Center for Retraining and Employment of Stock Military Personnel", Management, Economist Manager
 
-1988 — 1992 — ST.Petersburg S.Kirov High Command Military School, engineer + command tactical specialty
+__1988 — 1992__ — ST.Petersburg S.Kirov High Command Military School, engineer + command tactical specialty
 
 
 ## English level
