@@ -17,15 +17,16 @@ body {
 .wrapper {
   max-width: 1024px;
   margin: 0 auto;
+  padding: 10px;
 }
 
 section {
-  padding: 10px;
+  
 }
 
 h1 {
   padding: 10px;
-  font-size: 24px;
+  font-size: 30px;
   background-color: #b0cce3;
 }
 
@@ -41,8 +42,20 @@ h3 {
   background-color: #ebeced;
 }
 
+.personal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+td:last-child {
+  font-size: 22px;
+  padding: 3px 20px;
+}
+
 figure {
-  
+  padding: 10px;
 }
 
 img {
