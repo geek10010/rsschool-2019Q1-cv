@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.4;
+  font-family: Calibri, Arial, sans-serif;
+  color: #2a2a2a;
+  background-color: #fafafa;
+  word-break: break-word;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+section {
+  padding: 10px;
+}
+
+h1 {
+  padding: 10px;
+  font-size: 24px;
+  background-color: #b0cce3;
+}
+
+h2 {
+  padding: 10px 15px;
+  font-size: 22px;
+  background-color: #e0e6eb;
+}
+
+h3 {
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #ebeced;
+}
+
+figure {
+  
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  padding: 5px 10px;
+}
